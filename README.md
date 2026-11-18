@@ -61,8 +61,36 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 <img width="1633" height="772" alt="Screenshot 2026-11-17 140650" src="https://github.com/user-attachments/assets/072d4ec8-23d7-4691-afc7-a7d7f45609e7" />
 
+## summary :
+### 1. Data Understanding
+I understood the Titanic dataset and its different columns, such as Age, Gender, Passenger Class, Fare, and Survived. I learned how to check the number of rows, columns, and data types.
 
+### 2. Data Cleaning
+I learned how to identify missing values and duplicate records in the dataset. Missing values were handled using suitable methods like mean, median, and mode.
 
+### 3. Missing Value Analysis
+I understood how to find missing values in each column. The Cabin, Age, and Embarked columns contained missing values.
+
+### 4. Outlier Detection
+I learned how to identify outliers using boxplots. I also understood how the Interquartile Range (IQR) method helps to detect and remove outliers.
+
+### 5. Data Visualization
+I learned to represent data using different graphs like count plots, histograms, boxplots, and scatter plots. These graphs help us understand the data easily.
+
+### 6. Univariate Analysis
+I understood how to analyze a single variable using graphs. I used count plots and distribution plots to understand the data.
+
+### 7. Bivariate Analysis
+I learned how to compare two variables and understand their relationship. For example, I compared Age and Fare using scatter plots.
+
+### 8. Multivariate Analysis
+I understood how to analyze multiple variables together using cross-tabulation and heatmaps. It helped me identify relationships between different columns.
+
+### 9. Correlation Analysis
+I learned how to use a correlation heatmap to identify positive and negative relationships between numerical variables.
+
+### 10. Result
+From this experiment, I understood how to perform Exploratory Data Analysis using Python. I learned data cleaning, missing value handling, outlier detection, and data visualization. Finally, the dataset was successfully analyzed and saved into a new file.
 
 
 # RESULT:
